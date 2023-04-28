@@ -1,0 +1,21 @@
+/*Comentarios*/
+body{
+    background-color: rgb(196, 154, 239);
+    color: rgb(191, 18, 191);
+    font-family: 'Dancing Script', cursive; ;
+}
+p{
+    color: black;
+}
+h1{
+    color: aqua;
+}
+/*Para agregar clase, poemos (.) antes del nombre*/
+.titulo-web{
+    color: rgb(189, 34, 65);
+    font-size: larger;
+}
+
+img{
+    width: 300px; /*width-ancho*/
+}
